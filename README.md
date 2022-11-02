@@ -3,7 +3,8 @@
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Rust and python.
+- 🌱 I’m a nodejs dev currently focused on the MENT (MongoDB ExpressJS NodeJS Typescript) Stack.
+- 🌱 I’m currently learning Java, Rust and python.
 - 😊 I’m open to work and collaborations with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing anthonycuzoho@gmail.com.
